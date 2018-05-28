@@ -5,7 +5,8 @@ Precision and Recall are the main evaluation metrics used and also Area under Pr
 
 **Techniques Used**
 1. Logistic Regression
-2. Balanced Bagging i.e. undersampling of majority class and bagging using Logistic estimators.
+2. SMOTE and SMOTEENN
+3. Bagging of (SMOTE+Logit) Models
 3. Cross-validation
 
 
