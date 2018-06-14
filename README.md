@@ -1,4 +1,4 @@
-**Aim:** Building a model to detect fraud in credit card transactions
+**Goal:** Building a machine learning model to detect fraud in credit card transactions
 
 The credit card transactions data set from Kaggle is highly skewed in class distribution. This project involves building a model to predict fraudulent transactions by using techniques to effectively handle class imbalance.
 Precision and Recall are the main evaluation metrics used and also Area under Precision-Recall Curves as the classes are imbalanced.
