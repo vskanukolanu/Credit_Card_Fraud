@@ -5,9 +5,9 @@ Precision and Recall are the main evaluation metrics used and also Area under Pr
 
 **Techniques Used**
 1. Logistic Regression
-2. SMOTE and SMOTEENN
+2. SMOTE
 3. Cross-validation
 4. Random Forests with penality on minority class missclassification
-5. Hyperparameter tuning of Random Forests
+5. Hyperparameter Tuning
 
 
